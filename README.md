@@ -11,7 +11,7 @@ Secure authentication with user credentials from Database
 
 Customizable roles and permissions
 
-Admin-only APIs for sensitive operations
+Only Admin APIs can perform sensitive operations
 
 # Technologies Used
 Spring Boot
