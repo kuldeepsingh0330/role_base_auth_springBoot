@@ -5,7 +5,7 @@ The application allows users to sign in using their credentials and access APIs 
 If the credentials are not correct API return a message using Global Exception handling.
 
 # Features
-Role-based access control to APIs
+Role-based access control of API's
 
 Secure authentication with user credentials from Database
 
